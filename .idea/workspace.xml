@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac7c7de-403b-4d03-b1ba-ced10840dc30" name="Changes" comment="Fetch cat facts from external API">
-      <change beforePath="$PROJECT_DIR$/cat_facts.db" beforeDir="false" afterPath="$PROJECT_DIR$/cat_facts.db" afterDir="false" />
+    <list default="true" id="8ac7c7de-403b-4d03-b1ba-ced10840dc30" name="Changes" comment="Display cat facts from the database">
       <change beforePath="$PROJECT_DIR$/cat_facts_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/cat_facts_app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +103,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721987655882</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Save cat facts to the database">
+      <option name="closed" value="true" />
+      <created>1721987698423</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721987698423</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Display cat facts from the database">
+      <option name="closed" value="true" />
+      <created>1721987733028</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721987733028</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,6 +128,8 @@
     <MESSAGE value="Determine database path" />
     <MESSAGE value="Add database operations for cat_facts table" />
     <MESSAGE value="Fetch cat facts from external API" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fetch cat facts from external API" />
+    <MESSAGE value="Save cat facts to the database" />
+    <MESSAGE value="Display cat facts from the database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Display cat facts from the database" />
   </component>
 </project>
