@@ -18,14 +18,14 @@ This Python application fetches cat facts from an API and saves them into an SQL
 ## Installation
 
 ### Clone the Repository:
-git clone https://github.com/yourusername/cat-facts-fetcher.git  
-cd cat-facts-fetcher
+`git clone https://github.com/yourusername/cat-facts-fetcher.git`  
+`cd cat-facts-fetcher`
 
 ### Install Dependencies:
-pip install requests
+`pip install requests`
 
 ### Run the Application:
-python main.py
+`python main.py`
 
 ## Functionality:
 - The application will create an SQLite database named cat_facts.db if it doesn't already exist.
