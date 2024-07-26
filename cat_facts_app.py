@@ -9,3 +9,7 @@ def fetch_cat_facts():
     else:
         print(f"API request failed. Status code: {response.status_code}")
         return None
+
+def save_facts_to_db(facts):
+    for fact in facts:
+        insert_fact(fact['text'])
