@@ -28,6 +28,6 @@ pip install requests
 python main.py
 
 ## Functionality:
-- **The application will create an SQLite database named cat_facts.db if it doesn't already exist.
-- **It will fetch cat facts from the API and save them into the database.
-- **Finally, it will display the saved cat facts in the terminal/PowerShell.
+- The application will create an SQLite database named cat_facts.db if it doesn't already exist.
+- It will fetch cat facts from the API and save them into the database.
+- Finally, it will display the saved cat facts in the terminal/PowerShell.
