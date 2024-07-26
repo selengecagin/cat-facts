@@ -13,3 +13,9 @@ def fetch_cat_facts():
 def save_facts_to_db(facts):
     for fact in facts:
         insert_fact(fact['text'])
+
+def display_facts():
+    facts = get_all_facts()
+    print("\nCat Facts in the Database:")
+    for fact in facts:
+        print(f"ID: {fact[0]}, Fact: {fact[1]}, Created At: {fact[2]}")
