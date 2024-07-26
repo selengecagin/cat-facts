@@ -18,7 +18,7 @@ This Python application fetches cat facts from an API and saves them into an SQL
 ## Installation
 
 ### Clone the Repository:
-git clone https://github.com/yourusername/cat-facts-fetcher.git
+git clone https://github.com/yourusername/cat-facts-fetcher.git  
 cd cat-facts-fetcher
 
 ### Install Dependencies:
